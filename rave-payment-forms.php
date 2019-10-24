@@ -35,3 +35,4 @@
   $flw_pay_class = FLW_Rave_Pay::get_instance();
 
 ?>
+//nothing more
